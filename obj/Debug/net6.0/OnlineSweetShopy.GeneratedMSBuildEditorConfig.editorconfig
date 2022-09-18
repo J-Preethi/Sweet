@@ -1,0 +1,284 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineSweetShopy
+build_property.RootNamespace = OnlineSweetShopy
+build_property.ProjectDir = C:\Users\itcdnet07\source\repos\OnlineSweetShopy\OnlineSweetShopy\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\itcdnet07\source\repos\OnlineSweetShopy\OnlineSweetShopy
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/Adminlogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEFkbWlubG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/AdminPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEFkbWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Admins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/AspNetUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/AspNetUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/AspNetUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/AspNetUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/AspNetUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/EventBookingReqs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRCb29raW5nUmVxc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/EventBookingReqs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRCb29raW5nUmVxc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/EventBookingReqs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRCb29raW5nUmVxc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/EventBookingReqs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRCb29raW5nUmVxc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/EventBookingReqs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRCb29raW5nUmVxc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/FeedBacks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEJhY2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/FeedBacks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEJhY2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/FeedBacks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEJhY2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/FeedBacks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEJhY2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/FeedBacks/FeedBack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEJhY2tzXEZlZWRCYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/FeedBacks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEJhY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Home/confirmOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb25maXJtT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Locations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Locations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Locations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Locations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Locations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Offers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Offers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Offers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Offers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Offers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Offers/ViewOffer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXFZpZXdPZmZlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Orders/OrderNow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE9yZGVyTm93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRDYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRDYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRDYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRDYXRlZ29yaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRDYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetCategories/SelectCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRDYXRlZ29yaWVzXFNlbGVjdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRQcm9kdWN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRQcm9kdWN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRQcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRQcm9kdWN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRQcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/SweetProducts/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3dlZXRQcm9kdWN0c1xQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/itcdnet07/source/repos/OnlineSweetShopy/OnlineSweetShopy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-94iq8gskg1

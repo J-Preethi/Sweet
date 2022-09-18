@@ -1,0 +1,15 @@
+﻿@model OnlineSweetShopy.Models.Admin
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Welcome to Admin login page</h2>
+<form method="post">
+    <label>Enter UserName</label>@Html.TextBoxFor(c=>c.UserName,new{@class ="form-control"})<br/><br/>
+    <label>Enter Password</label>@Html.PasswordFor(c=>c.Password,new{@class="form-control"})<br/><br/>
+    <input type="submit" value="login" class=" btn btn-primary" />
+    </form>
+<div>
+    @ViewData["uid"]
+</div>
